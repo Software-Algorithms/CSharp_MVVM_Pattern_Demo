@@ -1,0 +1,17 @@
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\bin\Debug\Demo_MVVM_Pattern.exe.config
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\bin\Debug\Demo_MVVM_Pattern.exe
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\bin\Debug\Demo_MVVM_Pattern.pdb
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\MainWindow.g.cs
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\View\StudentView.g.cs
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\App.g.cs
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern_MarkupCompile.cache
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern_MarkupCompile.lref
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\MainWindow.baml
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\View\StudentView.baml
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.g.resources
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.Properties.Resources.resources
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.csproj.GenerateResource.Cache
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.exe
+C:\Users\Broadcaster2\Desktop\TranscriptionService_Project\Demo_MVVM_Pattern\Demo_MVVM_Pattern\obj\Debug\Demo_MVVM_Pattern.pdb
